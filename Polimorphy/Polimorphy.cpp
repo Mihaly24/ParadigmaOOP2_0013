@@ -9,6 +9,11 @@ public:
     //}
 };
 
+class jaka :public seseorang {
+public:
+
+};
+
 int main()
 {
     
