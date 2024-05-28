@@ -11,8 +11,12 @@ public:
 
 class jaka :public seseorang {
 public:
-
+    void pesan() {
+        cout << "Pesan dari Jaka" << endl;
+    }
 };
+
+
 
 int main()
 {
